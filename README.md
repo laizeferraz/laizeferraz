@@ -20,7 +20,7 @@ I'm an enthusiastic and self-motivated Frontend Developer with a strong backgrou
 
 **Mentoring:** Experienced in mentoring and instructing aspiring web developers in HTML, CSS, JavaScript, React, and Git, providing individualized coaching and fostering industry-ready skills through hands-on learning
 
-**Other:** Git, Agile, Jira, Monorepo management, Accessibility automation
+**Other:** Git, Agile, Jira, Figma, Storybook, Accessibility
 
 ## 👩‍💻 Notable Projects
 **Portfolio2023:** Personal portfolio with latest projects (Next.js, TailwindCSS)
