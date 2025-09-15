@@ -5,33 +5,36 @@ Frontend Software Engineer | Sunshine Coast, QLD, Australia
 ## 🚀 About Me
 I'm an enthusiastic and self-motivated Frontend Developer with a strong background in building scalable and maintainable web applications. My experience spans roles at Grok Academy, Palo IT, and Academy Xi, contributing to both client projects and educational initiatives. I thrive in cross-functional teams and am passionate about delivering high-quality, accessible, and inclusive user experiences.
 
-Main Tech: React, TypeScript, Next.js, JavaScript, Tailwind CSS, Styled Components, Web Components
+**Main Tech:** React, TypeScript, Next.js, JavaScript, Tailwind CSS, Styled Components, Web Components
 
-Practices: Agile methodologies, Unit testing (Jest, Vitest), CI/CD, Accessibility, Atomic Design
+**Practices:** Agile methodologies, Unit testing (Jest, Vitest), CI/CD, Accessibility, Atomic Design
 
-Strengths: Clear communication, proactive problem-solving, code quality, and mentorship
+**Strengths:** Clear communication, proactive problem-solving, code quality, and mentorship
 
 ## 🛠️ Skills
-Frontend: React, TypeScript, JavaScript (ES6+), HTML, CSS, Next.js, Tailwind CSS, Styled Components, Lit Element, Web Components
+**Frontend:** React, TypeScript, JavaScript (ES6+), HTML, CSS, Next.js, Tailwind CSS, Styled Components, Lit Element, Web Components
 
-Testing & DevOps: Jest, Vitest, Storybook, Open Web Components Testing, Automation scripts
+**Backend:** Node.js
 
-Mentoring: Experienced in mentoring and instructing aspiring web developers in HTML, CSS, JavaScript, React, and Git, providing individualized coaching and fostering industry-ready skills through hands-on learning
+**Testing & DevOps:** Jest, Vitest, Storybook, Open Web Components Testing, Automation scripts
 
-Other: Git, Agile, Jira, Monorepo management, Accessibility automation
+**Mentoring:** Experienced in mentoring and instructing aspiring web developers in HTML, CSS, JavaScript, React, and Git, providing individualized coaching and fostering industry-ready skills through hands-on learning
+
+**Other:** Git, Agile, Jira, Monorepo management, Accessibility automation
 
 ## 👩‍💻 Notable Projects
-Portfolio2023: New personal portfolio with latest projects (React, Next.js)
+**Portfolio2023:** Personal portfolio with latest projects (Next.js, TailwindCSS)
 
-Let Me Ask Agents Web: AI-powered version of Q&A web app supporting real-time collaborative rooms
+**Let Me Ask 2.0:** Q&A web app supporting real-time collaborative rooms (Next.js, TypeScript, TailwindCSS, Firebase)
 
-TaskTimer: Productivity app built during Rocketseat Bootcamp (ReactJS)
+**Let Me Ask Agents Web:** A full-stack app leveraging AI power to support a Q&A web app (React.js, TypeScript, Shadcn-ui, Node.js, TanStack)
 
-TimeCapsule: Project created during NLW SpaceTime by Rocketseat
+**TaskTimer:** Productivity app built during Rocketseat Bootcamp (React.js, Typescript, Styled Components)
 
-Alurakut: Social network clone using Next.js and Styled Components
+**TimeCapsule:** Project created during NLW SpaceTime by Rocketseat (Next.js, TypeScript, TailwindCSS)
 
-Pinned projects showcase modern React, Next.js, and state management best practices.
+**Alurakut:** Social network clone (Next.js, Styled Components)
+
 
 ## 🌱 Current Focus
 Advanced React patterns and scalable frontend architecture
@@ -42,9 +45,9 @@ Sharing knowledge through mentorship and open-source contributions
 
 ## 📫 Get in Touch
 
-LinkedIn: [laize-ferraz](https://www.linkedin.com/in/laize-ferraz/)
+**LinkedIn:** [laize-ferraz](https://www.linkedin.com/in/laize-ferraz/)
 
-Portfolio: [laizeferraz](https://www.laizeferraz.com/)
+**Portfolio:** [laizeferraz](https://www.laizeferraz.com/)
 <!--
 **laizeferraz/laizeferraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
